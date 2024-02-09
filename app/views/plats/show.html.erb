@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @plat.name %>
+</p>
+
+<p>
+  <strong>Age:</strong>
+  <%= @plat.age %>
+</p>
+
+<p>
+  <strong>Image:</strong>
+  <%= image_tag @plat.image %>
+</p>
+
+<%= link_to 'Edit', edit_plat_path(@plat) %> |
+<%= link_to 'Back', plats_path %>

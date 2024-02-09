@@ -1,0 +1,18 @@
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/actvie_storage/employee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/deepak/.rvm/rubies/ruby-2.6.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/actvie_storage/employee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240209-22653-lchhwh sitelibdir\=./.gem.20240209-22653-lchhwh clean
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/actvie_storage/employee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240209-22653-lchhwh sitelibdir\=./.gem.20240209-22653-lchhwh
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/actvie_storage/employee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240209-22653-lchhwh sitelibdir\=./.gem.20240209-22653-lchhwh install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20240209-22653-lchhwh
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/side_kiq/actvie_storage/employee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240209-22653-lchhwh sitelibdir\=./.gem.20240209-22653-lchhwh clean
